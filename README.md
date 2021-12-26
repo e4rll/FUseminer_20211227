@@ -9,9 +9,3 @@
 今回の演習のファイルは下のボタンから開くことができるので、押下してみてください。
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/e4rll/FUseminer_20211227/blob/master/【演習用】20211227_LR.ipynb)
-
-## LICENSE
-
-![MIT](https://img.shields.io/github/license/e4rll/FUseminer_20211227)
-
-The source code is licensed MIT.
